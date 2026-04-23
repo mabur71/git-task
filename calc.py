@@ -12,10 +12,14 @@ def subtract(a, b):
 def multiply(a, b):
     # TODO: не реализовано
     return a*b
+<<<<<<< HEAD
 
 def sqrt(x):
     return math.sqrt(x)
 
+=======
+def sqrt(x):
+    return math.sqrt(x)
 
 if __name__ == "__main__":
     print("Простой калькулятор запущен.")
